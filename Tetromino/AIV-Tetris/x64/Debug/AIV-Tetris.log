@@ -1,0 +1,9 @@
+﻿  Tetris.c
+S:\AIV\Tetris\AIV-Tetris\Tetris.c(79,19): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+S:\AIV\Tetris\AIV-Tetris\Tetris.c(82,67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+S:\AIV\Tetris\AIV-Tetris\Tetris.c(83,69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+S:\AIV\Tetris\AIV-Tetris\Tetris.c(97,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AIV-Tetris.vcxproj -> S:\AIV\Tetris\x64\Debug\AIV-Tetris.exe
+  Copy DLL
+  S:\AIV\Tetris\Extern\Raylib\lib\raylib.dll
+  1 File copiati
